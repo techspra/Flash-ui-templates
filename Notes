@@ -1,3 +1,5 @@
 PNG increases size...will try to produce same effect using vector graphics...
 added timer function
-problem in timer:creates a new instance every time form reloads..fixing
+problem in timer:creates a new instance every time form reloads..fixing [fixed]
+redesigned ui...added sidebar..
+added classes for script 
